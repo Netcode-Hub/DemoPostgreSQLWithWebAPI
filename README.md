@@ -1,4 +1,4 @@
-# Seamless PostgreSQL Integration : Connect to .NET 8 Web API With Installer & Docker Container
+# Seamless PostgreSQL Integration : Connect to .NET 8 Web API With Installer & Docker Container https://youtu.be/TjMM1VUXnd8
 ![postgres](https://github.com/Netcode-Hub/DemoPostgreSQLWithWebAPI/assets/110794348/e5c2e186-30b3-4bfb-88e7-349fe2060ca1)
 
 Welcome to my channel! In today's video, I'm going to show you how to connect PostgreSQL to a .NET Web API. Whether you're building a new application or integrating a database into an existing one, this tutorial will guide you through the entire process step-by-step.
